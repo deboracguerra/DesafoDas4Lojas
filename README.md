@@ -1,4 +1,4 @@
-# README — Análise de Vendas das Lojas (Alura Store)
+# README — Análise de Vendas das Lojas (Desafio das 4 Lojas)
 
 > Projeto em Python para analisar o desempenho de **4 lojas** do Sr. João e recomendar **qual loja vender**, com base em faturamento, avaliações de clientes, frete médio, mix de categorias e comportamento de produtos.
 
